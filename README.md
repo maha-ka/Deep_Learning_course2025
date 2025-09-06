@@ -6,7 +6,7 @@ The implementations are done in PyTorch and cover the workflow: data preprocessi
 
 ## 1. **Classification** (Classification_NetworkFromScratch.ipynb)
 
-**Task: **Train a CNN from scratch to classify images of 15 types of vegetables (Kaggle dataset).
+**Task:** Train a CNN from scratch to classify images of 15 types of vegetables (Kaggle dataset).
 
 **Approach:**
 
